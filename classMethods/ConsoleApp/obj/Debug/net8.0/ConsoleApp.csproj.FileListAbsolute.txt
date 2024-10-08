@@ -1,0 +1,14 @@
+D:\CSharp\classMethods\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+D:\CSharp\classMethods\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+D:\CSharp\classMethods\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+D:\CSharp\classMethods\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+D:\CSharp\classMethods\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+D:\CSharp\classMethods\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\classMethods\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\CSharp\classMethods\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+D:\CSharp\classMethods\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\CSharp\classMethods\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+D:\CSharp\classMethods\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+D:\CSharp\classMethods\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+D:\CSharp\classMethods\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+D:\CSharp\classMethods\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
